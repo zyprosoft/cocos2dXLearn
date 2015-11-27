@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="10" height="12" tilewidth="75" tileheight="75" nextobjectid="1">
+ <tileset firstgid="1" source="area.tsx"/>
+ <layer name="floor" width="10" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgYCQTc1CgdxSThjnRaGIxAIIMAJA=
+  </data>
+ </layer>
+ <layer name="wall" width="10" height="12">
+  <data encoding="base64" compression="zlib">
+   eJyVUUEKACAI259Krd/19C4FQxzRQNQYc6MA0EQN6gYNp25JAzR3YDHvBeax3khvSs+Lnf3Fg3eRPai7KlPmdcoxzzw/c0Thp/q/DQUSDoI=
+  </data>
+ </layer>
+ <layer name="npc" width="10" height="12">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAeuENpOyQxLgaGBhBtj0W9ClBODZWPotcByleFmgEDqmjq5JDYilBaFIt9Tmj6QMARKu6IRT2yeU5IamHAHupGGFBBcycMODCg+h/mH1k0dcjmKSKJW6Kp82BA+ANmBj/UTAFsDsADAI4SCv4=
+  </data>
+ </layer>
+</map>

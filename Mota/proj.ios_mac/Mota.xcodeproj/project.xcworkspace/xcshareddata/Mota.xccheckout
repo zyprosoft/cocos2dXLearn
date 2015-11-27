@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2EF84A1A-9174-4B9F-AF96-E1308C1B9F26</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Mota</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9999E76D945C009EF1AB20D1D6593A257D2E9EC6</key>
+		<string>https://github.com/zyprosoft/cocos2dXLearn.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Mota/proj.ios_mac/Mota.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9999E76D945C009EF1AB20D1D6593A257D2E9EC6</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zyprosoft/cocos2dXLearn.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9999E76D945C009EF1AB20D1D6593A257D2E9EC6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9999E76D945C009EF1AB20D1D6593A257D2E9EC6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>cocos2dXLearn</string>
+		</dict>
+	</array>
+</dict>
+</plist>
